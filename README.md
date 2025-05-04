@@ -37,7 +37,7 @@ Certifique-se de ter Python 3 instalado.
 
 2. Execute o sistema:
    ```bash
-   python sistema_experto.py
+   python sistema_especialista.py
    ```
 
 3. Insira os dados solicitados pelo terminal para obter o diagnóstico.
@@ -62,10 +62,6 @@ Diagnóstico: Alta centralização detectada devido ao custo elevado e baixa ace
 
 - Thiago Melato
 - Bernardo Vannier
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
 
 ## Referências
 
