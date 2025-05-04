@@ -91,7 +91,7 @@ if __name__ == "__main__":
     hashrate_pct = float(input("Porcentagem nas 3 maiores pools (%): "))
     roi = float(input("ROI mensal (%): "))
     conhecimento = float(input("Acessibilidade ao conhecimento (0-10): "))
-    custo_equip = float(input("Custo médio das mineradoras (R$): "))
+    custo_equip = float(input("Custo médio do equipamento das mineradoras (R$): "))
     custo_espaco = float(input("Custo por m² do espaço (R$): "))
     refrigeracao = float(input("Demanda de refrigeração (1-5): "))
     custo_usina = float(input("Custo por kWh da usina (R$): "))
